@@ -1,0 +1,180 @@
+{"frames": {
+
+"anniu_01.png":
+{
+	"frame": {"x":628,"y":241,"w":45,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":39},
+	"sourceSize": {"w":45,"h":39}
+},
+"anniu_02.png":
+{
+	"frame": {"x":628,"y":200,"w":45,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":39},
+	"sourceSize": {"w":45,"h":39}
+},
+"aochao.png":
+{
+	"frame": {"x":526,"y":296,"w":65,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":65,"h":68},
+	"sourceSize": {"w":67,"h":70}
+},
+"aochao2.png":
+{
+	"frame": {"x":843,"y":262,"w":65,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":65,"h":66},
+	"sourceSize": {"w":67,"h":70}
+},
+"bj.png":
+{
+	"frame": {"x":994,"y":2,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"dikuang.png":
+{
+	"frame": {"x":526,"y":200,"w":100,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":94},
+	"sourceSize": {"w":100,"h":94}
+},
+"duanwei.png":
+{
+	"frame": {"x":306,"y":240,"w":76,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":85},
+	"sourceSize": {"w":76,"h":85}
+},
+"fanhui.png":
+{
+	"frame": {"x":694,"y":101,"w":163,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":106},
+	"sourceSize": {"w":163,"h":106}
+},
+"haoyoupaiming.png":
+{
+	"frame": {"x":394,"y":101,"w":298,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":97},
+	"sourceSize": {"w":298,"h":97}
+},
+"jin.png":
+{
+	"frame": {"x":154,"y":152,"w":150,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":159},
+	"sourceSize": {"w":150,"h":159}
+},
+"portrainIcon.png":
+{
+	"frame": {"x":306,"y":152,"w":86,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":86},
+	"sourceSize": {"w":86,"h":86}
+},
+"quanqiupaiming.png":
+{
+	"frame": {"x":694,"y":2,"w":298,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":97},
+	"sourceSize": {"w":298,"h":97}
+},
+"quanqupaiming.png":
+{
+	"frame": {"x":394,"y":2,"w":298,"h":97},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":298,"h":97},
+	"sourceSize": {"w":298,"h":97}
+},
+"shangsheng.png":
+{
+	"frame": {"x":675,"y":265,"w":66,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":67},
+	"sourceSize": {"w":66,"h":67}
+},
+"tong.png":
+{
+	"frame": {"x":2,"y":152,"w":150,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":159},
+	"sourceSize": {"w":150,"h":159}
+},
+"wanjia.png":
+{
+	"frame": {"x":675,"y":209,"w":98,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":54},
+	"sourceSize": {"w":98,"h":54}
+},
+"wodepaiming.png":
+{
+	"frame": {"x":628,"y":282,"w":44,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":206},
+	"sourceSize": {"w":44,"h":206}
+},
+"xiajiang.png":
+{
+	"frame": {"x":775,"y":209,"w":66,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":67},
+	"sourceSize": {"w":66,"h":67}
+},
+"xingxing.png":
+{
+	"frame": {"x":394,"y":200,"w":130,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":130,"h":135},
+	"sourceSize": {"w":130,"h":135}
+},
+"yeqian.png":
+{
+	"frame": {"x":2,"y":2,"w":390,"h":148},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":390,"h":148},
+	"sourceSize": {"w":390,"h":148}
+},
+"yin.png":
+{
+	"frame": {"x":859,"y":101,"w":150,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":159},
+	"sourceSize": {"w":150,"h":159}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "RankListAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8d4076133d4fd459c87dd4f6c788a48d$"
+}
+}

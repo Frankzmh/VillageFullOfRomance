@@ -1,0 +1,252 @@
+{"frames": {
+
+"Main_BGOfficialReward(10-10-10).png":
+{
+	"frame": {"x":592,"y":149,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"Main_BGPlayerRewar(10-10-10).png":
+{
+	"frame": {"x":592,"y":117,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30}
+},
+"Main_BtnAddBG.png":
+{
+	"frame": {"x":420,"y":226,"w":124,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":95},
+	"sourceSize": {"w":124,"h":95}
+},
+"Main_BtnBag.png":
+{
+	"frame": {"x":770,"y":154,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_BtnClothing.png":
+{
+	"frame": {"x":2,"y":378,"w":144,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":153},
+	"sourceSize": {"w":144,"h":153}
+},
+"Main_BtnFriend.png":
+{
+	"frame": {"x":624,"y":154,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_BtnMade.png":
+{
+	"frame": {"x":446,"y":70,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_BtnMail.png":
+{
+	"frame": {"x":300,"y":70,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_BtnMore.png":
+{
+	"frame": {"x":2,"y":222,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_BtnNext.png":
+{
+	"frame": {"x":957,"y":2,"w":56,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":109},
+	"sourceSize": {"w":56,"h":109}
+},
+"Main_BtnPlayerInfo.png":
+{
+	"frame": {"x":148,"y":226,"w":144,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":153},
+	"sourceSize": {"w":144,"h":153}
+},
+"Main_BtnSetting.png":
+{
+	"frame": {"x":294,"y":366,"w":87,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":95},
+	"sourceSize": {"w":87,"h":95}
+},
+"Main_BtnShop.png":
+{
+	"frame": {"x":154,"y":70,"w":144,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":154},
+	"sourceSize": {"w":144,"h":154}
+},
+"Main_CommonBG.png":
+{
+	"frame": {"x":546,"y":310,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"Main_IconDiamonds.png":
+{
+	"frame": {"x":916,"y":160,"w":93,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":86},
+	"sourceSize": {"w":93,"h":86}
+},
+"Main_IconDown.png":
+{
+	"frame": {"x":592,"y":181,"w":28,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":36},
+	"sourceSize": {"w":28,"h":36}
+},
+"Main_IconFlag01.png":
+{
+	"frame": {"x":420,"y":323,"w":89,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":51},
+	"sourceSize": {"w":89,"h":51}
+},
+"Main_IconGold.png":
+{
+	"frame": {"x":916,"y":248,"w":89,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":89},
+	"sourceSize": {"w":89,"h":89}
+},
+"Main_IconHead.png":
+{
+	"frame": {"x":294,"y":226,"w":124,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":138},
+	"sourceSize": {"w":124,"h":138}
+},
+"Main_IconHeadBG.png":
+{
+	"frame": {"x":2,"y":70,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Main_IconLife.png":
+{
+	"frame": {"x":148,"y":381,"w":84,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":80},
+	"sourceSize": {"w":84,"h":80}
+},
+"Main_IconSlider.png":
+{
+	"frame": {"x":996,"y":113,"w":21,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":40},
+	"sourceSize": {"w":21,"h":40}
+},
+"Main_IconSliderBG(10-10-10).png":
+{
+	"frame": {"x":1015,"y":2,"w":7,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":30},
+	"sourceSize": {"w":7,"h":30}
+},
+"Main_IconSnatchMatch.png":
+{
+	"frame": {"x":805,"y":2,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Main_IconStoryMatch.png":
+{
+	"frame": {"x":653,"y":2,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"Main_IconZan1.png":
+{
+	"frame": {"x":592,"y":70,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":45},
+	"sourceSize": {"w":37,"h":45}
+},
+"Main_IconZan2.png":
+{
+	"frame": {"x":957,"y":113,"w":37,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":45},
+	"sourceSize": {"w":37,"h":45}
+},
+"Main_TagOfficialMatch.png":
+{
+	"frame": {"x":436,"y":2,"w":215,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":66},
+	"sourceSize": {"w":215,"h":66}
+},
+"Main_TagPlayerMatch.png":
+{
+	"frame": {"x":219,"y":2,"w":215,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":66},
+	"sourceSize": {"w":215,"h":66}
+},
+"Main_TagStage.png":
+{
+	"frame": {"x":2,"y":2,"w":215,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":66},
+	"sourceSize": {"w":215,"h":66}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "MainMenuAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9723c507a8457c4fa2d68a54872c1cd3:1/1$"
+}
+}

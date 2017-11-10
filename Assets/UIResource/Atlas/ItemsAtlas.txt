@@ -1,0 +1,300 @@
+{"frames": {
+
+"FaceSp_Bag.png":
+{
+	"frame": {"x":2,"y":2,"w":164,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":164},
+	"sourceSize": {"w":164,"h":164}
+},
+"FaceSp_JinGuanZhang.png":
+{
+	"frame": {"x":168,"y":2,"w":164,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":164},
+	"sourceSize": {"w":164,"h":164}
+},
+"RMB.png":
+{
+	"frame": {"x":334,"y":2,"w":51,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":62},
+	"sourceSize": {"w":51,"h":62}
+},
+"addstep3.png":
+{
+	"frame": {"x":387,"y":2,"w":92,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":92,"h":94},
+	"sourceSize": {"w":118,"h":118}
+},
+"addstep5.png":
+{
+	"frame": {"x":481,"y":2,"w":92,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":17,"w":92,"h":94},
+	"sourceSize": {"w":118,"h":118}
+},
+"bomb.png":
+{
+	"frame": {"x":575,"y":2,"w":104,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":104,"h":108},
+	"sourceSize": {"w":118,"h":118}
+},
+"box1.png":
+{
+	"frame": {"x":681,"y":2,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"box2.png":
+{
+	"frame": {"x":758,"y":2,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"box3.png":
+{
+	"frame": {"x":835,"y":2,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"box_jin.png":
+{
+	"frame": {"x":2,"y":168,"w":171,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":171,"h":165},
+	"sourceSize": {"w":175,"h":175}
+},
+"box_tong.png":
+{
+	"frame": {"x":175,"y":168,"w":147,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":18,"w":147,"h":139},
+	"sourceSize": {"w":175,"h":175}
+},
+"box_yin.png":
+{
+	"frame": {"x":324,"y":168,"w":153,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":153,"h":147},
+	"sourceSize": {"w":175,"h":175}
+},
+"card_Oil.png":
+{
+	"frame": {"x":479,"y":168,"w":169,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":169,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"card_chongzhika.png":
+{
+	"frame": {"x":650,"y":168,"w":167,"h":169},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":167,"h":169},
+	"sourceSize": {"w":175,"h":175}
+},
+"card_jingdong.png":
+{
+	"frame": {"x":819,"y":168,"w":171,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":171,"h":173},
+	"sourceSize": {"w":175,"h":175}
+},
+"diamonds.png":
+{
+	"frame": {"x":2,"y":343,"w":93,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":86},
+	"sourceSize": {"w":93,"h":86}
+},
+"diamonds3000.png":
+{
+	"frame": {"x":97,"y":343,"w":140,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":44,"w":140,"h":110},
+	"sourceSize": {"w":200,"h":200}
+},
+"diamonds3001.png":
+{
+	"frame": {"x":239,"y":343,"w":182,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":47,"w":182,"h":126},
+	"sourceSize": {"w":200,"h":200}
+},
+"diamonds3002.png":
+{
+	"frame": {"x":423,"y":343,"w":144,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":31,"w":144,"h":136},
+	"sourceSize": {"w":200,"h":200}
+},
+"diamonds3003.png":
+{
+	"frame": {"x":569,"y":343,"w":192,"h":172},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":192,"h":172},
+	"sourceSize": {"w":200,"h":200}
+},
+"diamonds3004.png":
+{
+	"frame": {"x":763,"y":343,"w":184,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":21,"w":184,"h":154},
+	"sourceSize": {"w":200,"h":200}
+},
+"diamonds3005.png":
+{
+	"frame": {"x":2,"y":517,"w":180,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":7,"w":180,"h":182},
+	"sourceSize": {"w":200,"h":200}
+},
+"energy.png":
+{
+	"frame": {"x":184,"y":517,"w":77,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":63},
+	"sourceSize": {"w":77,"h":63}
+},
+"exchange.png":
+{
+	"frame": {"x":263,"y":517,"w":110,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":13,"w":110,"h":98},
+	"sourceSize": {"w":118,"h":118}
+},
+"gold.png":
+{
+	"frame": {"x":375,"y":517,"w":94,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":94},
+	"sourceSize": {"w":94,"h":94}
+},
+"gold2001.png":
+{
+	"frame": {"x":471,"y":517,"w":166,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":36,"w":166,"h":102},
+	"sourceSize": {"w":200,"h":200}
+},
+"gold2002.png":
+{
+	"frame": {"x":639,"y":517,"w":148,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":13,"w":148,"h":154},
+	"sourceSize": {"w":200,"h":200}
+},
+"gold2003.png":
+{
+	"frame": {"x":789,"y":517,"w":196,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":196,"h":190},
+	"sourceSize": {"w":200,"h":200}
+},
+"gold2004.png":
+{
+	"frame": {"x":2,"y":709,"w":164,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":56,"w":164,"h":136},
+	"sourceSize": {"w":200,"h":200}
+},
+"gold2005.png":
+{
+	"frame": {"x":168,"y":709,"w":268,"h":256},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":44,"w":268,"h":256},
+	"sourceSize": {"w":300,"h":300}
+},
+"hammer.png":
+{
+	"frame": {"x":438,"y":709,"w":88,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":9,"w":88,"h":108},
+	"sourceSize": {"w":118,"h":118}
+},
+"heng.png":
+{
+	"frame": {"x":528,"y":709,"w":116,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":116,"h":108},
+	"sourceSize": {"w":118,"h":118}
+},
+"jinbi.png":
+{
+	"frame": {"x":646,"y":709,"w":84,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":84},
+	"sourceSize": {"w":84,"h":84}
+},
+"nan1.png":
+{
+	"frame": {"x":732,"y":709,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":100,"h":100}
+},
+"refresh.png":
+{
+	"frame": {"x":735,"y":709,"w":98,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":13,"w":98,"h":100},
+	"sourceSize": {"w":118,"h":118}
+},
+"shu.png":
+{
+	"frame": {"x":835,"y":709,"w":80,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":0,"w":80,"h":118},
+	"sourceSize": {"w":118,"h":118}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ItemsAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c9fa9cc40d7e51e2eb9c2aa4332e8a92:1/1$"
+}
+}

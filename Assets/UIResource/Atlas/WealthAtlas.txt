@@ -1,0 +1,52 @@
+{"frames": {
+
+"chongzhidi.png":
+{
+	"frame": {"x":2,"y":2,"w":84,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":84,"h":76},
+	"sourceSize": {"w":88,"h":80}
+},
+"jinbi.png":
+{
+	"frame": {"x":88,"y":67,"w":66,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":72},
+	"sourceSize": {"w":66,"h":72}
+},
+"tianjia.png":
+{
+	"frame": {"x":168,"y":2,"w":73,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":76},
+	"sourceSize": {"w":73,"h":76}
+},
+"tili.png":
+{
+	"frame": {"x":2,"y":80,"w":52,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":78},
+	"sourceSize": {"w":52,"h":78}
+},
+"zuanshi.png":
+{
+	"frame": {"x":88,"y":2,"w":78,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":63},
+	"sourceSize": {"w":78,"h":63}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "WealthAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ef5f3901c5460edcc2f170211e68cec4$"
+}
+}

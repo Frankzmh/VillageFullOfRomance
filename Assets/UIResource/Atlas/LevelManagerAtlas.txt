@@ -1,0 +1,116 @@
+{"frames": {
+
+"Star_Dark.png":
+{
+	"frame": {"x":2,"y":2,"w":228,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":58},
+	"sourceSize": {"w":228,"h":58}
+},
+"Star_Light.png":
+{
+	"frame": {"x":232,"y":2,"w":214,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":37},
+	"sourceSize": {"w":214,"h":37}
+},
+"btn_Delete.png":
+{
+	"frame": {"x":448,"y":2,"w":53,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":53,"h":53},
+	"sourceSize": {"w":53,"h":53}
+},
+"btn_back.png":
+{
+	"frame": {"x":2,"y":62,"w":123,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":118},
+	"sourceSize": {"w":123,"h":118}
+},
+"btn_delete 1.png":
+{
+	"frame": {"x":127,"y":62,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
+	"sourceSize": {"w":58,"h":58}
+},
+"jiantou.png":
+{
+	"frame": {"x":187,"y":62,"w":56,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":109},
+	"sourceSize": {"w":56,"h":109}
+},
+"mark_gray.png":
+{
+	"frame": {"x":245,"y":62,"w":158,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":99},
+	"sourceSize": {"w":158,"h":99}
+},
+"mark_green.png":
+{
+	"frame": {"x":2,"y":182,"w":158,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":99},
+	"sourceSize": {"w":158,"h":99}
+},
+"mark_orange.png":
+{
+	"frame": {"x":162,"y":182,"w":158,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":99},
+	"sourceSize": {"w":158,"h":99}
+},
+"mark_red.png":
+{
+	"frame": {"x":322,"y":182,"w":158,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":99},
+	"sourceSize": {"w":158,"h":99}
+},
+"selectSp.png":
+{
+	"frame": {"x":2,"y":283,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"spZu.png":
+{
+	"frame": {"x":54,"y":283,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"title2.png":
+{
+	"frame": {"x":130,"y":283,"w":150,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":114},
+	"sourceSize": {"w":150,"h":114}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "LevelManagerAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:136ac7b5cfcd1214406bf6df49b493bd:1/1$"
+}
+}

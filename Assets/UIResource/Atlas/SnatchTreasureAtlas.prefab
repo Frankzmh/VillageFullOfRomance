@@ -1,0 +1,839 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &130092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 430092}
+  - 114: {fileID: 11430092}
+  m_Layer: 0
+  m_Name: SnatchTreasureAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &430092
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11430092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 130092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 45f5a89f6f66b424b95fcd18cca480d3, type: 2}
+  mSprites:
+  - name: Common_BtnBack
+    x: 869
+    y: 284
+    width: 145
+    height: 132
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_BtnBlue
+    x: 625
+    y: 215
+    width: 82
+    height: 127
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 30
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_BtnGray
+    x: 314
+    y: 304
+    width: 82
+    height: 127
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 30
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_BtnGreen
+    x: 312
+    y: 433
+    width: 82
+    height: 97
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 30
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_BtnRed
+    x: 196
+    y: 314
+    width: 82
+    height: 97
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 30
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_BtnYellow
+    x: 112
+    y: 314
+    width: 82
+    height: 97
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 30
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_SprBackBG
+    x: 523
+    y: 569
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_SprBoxBG1
+    x: 600
+    y: 344
+    width: 106
+    height: 106
+    borderLeft: 50
+    borderRight: 50
+    borderTop: 50
+    borderBottom: 50
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_SprBoxBG2
+    x: 252
+    y: 567
+    width: 54
+    height: 54
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_SprBoxBG3
+    x: 491
+    y: 569
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Common_SprTopBG
+    x: 2
+    y: 433
+    width: 74
+    height: 127
+    borderLeft: 32
+    borderRight: 32
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Icon_SnatchOfficialIcon
+    x: 583
+    y: 452
+    width: 115
+    height: 153
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Icon_StoryOfficailIcon
+    x: 879
+    y: 126
+    width: 127
+    height: 156
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_BtnDropDown
+    x: 2
+    y: 569
+    width: 50
+    height: 33
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_BtnRadio1
+    x: 78
+    y: 538
+    width: 28
+    height: 28
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_BtnRadio2
+    x: 252
+    y: 623
+    width: 44
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_Close
+    x: 78
+    y: 433
+    width: 96
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconRank1
+    x: 176
+    y: 489
+    width: 82
+    height: 73
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconRank2
+    x: 176
+    y: 413
+    width: 82
+    height: 74
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconRank3
+    x: 2
+    y: 607
+    width: 82
+    height: 74
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconSearch
+    x: 108
+    y: 538
+    width: 66
+    height: 56
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconStarCur
+    x: 884
+    y: 2
+    width: 130
+    height: 122
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconStarNoPass
+    x: 314
+    y: 220
+    width: 86
+    height: 82
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_IconStarPass
+    x: 314
+    y: 136
+    width: 86
+    height: 82
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprDai
+    x: 2
+    y: 37
+    width: 403
+    height: 97
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprFlagIsPass
+    x: 864
+    y: 596
+    width: 144
+    height: 87
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprFlagMySelf
+    x: 864
+    y: 507
+    width: 144
+    height: 87
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprFlagMyselfMatch
+    x: 2
+    y: 314
+    width: 108
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprFlagNoPass
+    x: 869
+    y: 418
+    width: 144
+    height: 87
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprInputBG
+    x: 312
+    y: 532
+    width: 74
+    height: 63
+    borderLeft: 32
+    borderRight: 32
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprInputBG2
+    x: 388
+    y: 569
+    width: 69
+    height: 67
+    borderLeft: 30
+    borderRight: 30
+    borderTop: 30
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemBG
+    x: 176
+    y: 564
+    width: 74
+    height: 74
+    borderLeft: 30
+    borderRight: 30
+    borderTop: 20
+    borderBottom: 40
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemFlagGray
+    x: 709
+    y: 340
+    width: 158
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemFlagGreen
+    x: 709
+    y: 239
+    width: 158
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemFlagOrange
+    x: 719
+    y: 138
+    width: 158
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemFlagRed
+    x: 719
+    y: 37
+    width: 158
+    height: 99
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprItemLeftBG
+    x: 86
+    y: 596
+    width: 70
+    height: 70
+    borderLeft: 30
+    borderRight: 30
+    borderTop: 30
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprListBG
+    x: 260
+    y: 472
+    width: 50
+    height: 50
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprListShade
+    x: 126
+    y: 668
+    width: 30
+    height: 53
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprMatching
+    x: 86
+    y: 668
+    width: 38
+    height: 39
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprMatchWin
+    x: 308
+    y: 597
+    width: 67
+    height: 70
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprMatchWinBG
+    x: 398
+    y: 329
+    width: 200
+    height: 82
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprPlayerRewardBG
+    x: 459
+    y: 569
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprPopBG
+    x: 708
+    y: 441
+    width: 154
+    height: 164
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprProgressBg
+    x: 260
+    y: 524
+    width: 50
+    height: 41
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprRankBG
+    x: 54
+    y: 738
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprSlider
+    x: 2
+    y: 2
+    width: 880
+    height: 33
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprSliderBG
+    x: 54
+    y: 683
+    width: 30
+    height: 53
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprSnatchRewardBG
+    x: 86
+    y: 709
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprSqlitLine
+    x: 2
+    y: 562
+    width: 30
+    height: 5
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_SprStoryRewardBG
+    x: 54
+    y: 569
+    width: 30
+    height: 30
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 10
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Snatch_TxtTitle
+    x: 402
+    y: 215
+    width: 221
+    height: 112
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Spr_TitleMatchIcon
+    x: 398
+    y: 413
+    width: 183
+    height: 154
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_Official
+    x: 2
+    y: 136
+    width: 310
+    height: 176
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_Player
+    x: 407
+    y: 37
+    width: 310
+    height: 176
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_SelectedNO
+    x: 202
+    y: 640
+    width: 42
+    height: 78
+    borderLeft: 16
+    borderRight: 16
+    borderTop: 30
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_SelectedYES
+    x: 158
+    y: 640
+    width: 42
+    height: 80
+    borderLeft: 16
+    borderRight: 16
+    borderTop: 30
+    borderBottom: 10
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_TopCenterBG
+    x: 280
+    y: 314
+    width: 30
+    height: 156
+    borderLeft: 10
+    borderRight: 10
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_TopLeftBG
+    x: 2
+    y: 843
+    width: 50
+    height: 156
+    borderLeft: 30
+    borderRight: 10
+    borderTop: 30
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Tag_TopRightBG
+    x: 2
+    y: 685
+    width: 50
+    height: 156
+    borderLeft: 10
+    borderRight: 30
+    borderTop: 30
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 130092}
+  m_IsPrefabParent: 1

@@ -1,0 +1,132 @@
+{"frames": {
+
+"levelDark.png":
+{
+	"frame": {"x":171,"y":2,"w":167,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":132},
+	"sourceSize": {"w":167,"h":132}
+},
+"levelLight.png":
+{
+	"frame": {"x":2,"y":2,"w":167,"h":132},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":132},
+	"sourceSize": {"w":167,"h":132}
+},
+"n0.png":
+{
+	"frame": {"x":387,"y":75,"w":45,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n1.png":
+{
+	"frame": {"x":434,"y":105,"w":27,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":27,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n2.png":
+{
+	"frame": {"x":2,"y":392,"w":41,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n3.png":
+{
+	"frame": {"x":468,"y":67,"w":41,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n4.png":
+{
+	"frame": {"x":340,"y":75,"w":45,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n5.png":
+{
+	"frame": {"x":468,"y":2,"w":41,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":41,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n6.png":
+{
+	"frame": {"x":2,"y":327,"w":43,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":43,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n7.png":
+{
+	"frame": {"x":2,"y":262,"w":43,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":43,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n8.png":
+{
+	"frame": {"x":2,"y":197,"w":43,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":43,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"n9.png":
+{
+	"frame": {"x":463,"y":132,"w":43,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":43,"h":63},
+	"sourceSize": {"w":45,"h":63}
+},
+"startDark.png":
+{
+	"frame": {"x":404,"y":2,"w":62,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":71},
+	"sourceSize": {"w":62,"h":71}
+},
+"startLight.png":
+{
+	"frame": {"x":340,"y":2,"w":62,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":71},
+	"sourceSize": {"w":62,"h":71}
+},
+"way.png":
+{
+	"frame": {"x":434,"y":75,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "StoryLevelAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b496826a2385f36d3e9977bcda649a2d$"
+}
+}

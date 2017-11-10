@@ -1,0 +1,124 @@
+{"frames": {
+
+"Skin_BoyBelt.png":
+{
+	"frame": {"x":2,"y":2,"w":169,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":10,"w":169,"h":155},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyClothesDown.png":
+{
+	"frame": {"x":173,"y":2,"w":153,"h":173},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":153,"h":173},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyClothesUp.png":
+{
+	"frame": {"x":328,"y":2,"w":173,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":11,"w":173,"h":153},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyFace.png":
+{
+	"frame": {"x":503,"y":2,"w":157,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":157,"h":165},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyHair.png":
+{
+	"frame": {"x":662,"y":2,"w":167,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":167,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyHeadWear.png":
+{
+	"frame": {"x":831,"y":2,"w":163,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":31,"w":163,"h":113},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_BoyShoes.png":
+{
+	"frame": {"x":2,"y":179,"w":173,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":45,"w":173,"h":105},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilBelt.png":
+{
+	"frame": {"x":177,"y":179,"w":165,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":46,"w":165,"h":83},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilClothesDown.png":
+{
+	"frame": {"x":344,"y":179,"w":175,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":18,"w":175,"h":137},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilClothesUp.png":
+{
+	"frame": {"x":521,"y":179,"w":175,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":17,"w":175,"h":139},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilFace.png":
+{
+	"frame": {"x":698,"y":179,"w":151,"h":171},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":2,"w":151,"h":171},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilHair.png":
+{
+	"frame": {"x":851,"y":179,"w":169,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":169,"h":175},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilHeadWear.png":
+{
+	"frame": {"x":2,"y":356,"w":137,"h":107},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":33,"w":137,"h":107},
+	"sourceSize": {"w":175,"h":175}
+},
+"Skin_GrilShoes.png":
+{
+	"frame": {"x":141,"y":356,"w":125,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":62,"w":125,"h":49},
+	"sourceSize": {"w":175,"h":175}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ClothesAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:75da7345c0ac78fe9c9f4cd1e85bf11a:1/1$"
+}
+}

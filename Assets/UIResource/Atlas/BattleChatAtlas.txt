@@ -1,0 +1,68 @@
+{"frames": {
+
+"chatIcon1.png":
+{
+	"frame": {"x":212,"y":44,"w":33,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":34},
+	"sourceSize": {"w":33,"h":34}
+},
+"chatIcon2.png":
+{
+	"frame": {"x":212,"y":2,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ku.png":
+{
+	"frame": {"x":2,"y":154,"w":94,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":74},
+	"sourceSize": {"w":94,"h":74}
+},
+"nan1.png":
+{
+	"frame": {"x":247,"y":44,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":100,"h":100}
+},
+"nu.png":
+{
+	"frame": {"x":116,"y":2,"w":94,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":79},
+	"sourceSize": {"w":94,"h":79}
+},
+"xiao.png":
+{
+	"frame": {"x":2,"y":78,"w":94,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":74},
+	"sourceSize": {"w":94,"h":74}
+},
+"zan.png":
+{
+	"frame": {"x":2,"y":2,"w":112,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":74},
+	"sourceSize": {"w":112,"h":74}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BattleChatAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1f773758e5bef457b9127a60e755286d$"
+}
+}

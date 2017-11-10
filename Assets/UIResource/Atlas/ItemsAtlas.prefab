@@ -1,0 +1,527 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &187238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 487238}
+  - 114: {fileID: 11487238}
+  m_Layer: 0
+  m_Name: ItemsAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &487238
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187238}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11487238
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b36e222041a6bfe41b5dea631daada15, type: 2}
+  mSprites:
+  - name: addstep3
+    x: 387
+    y: 2
+    width: 92
+    height: 94
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 10
+    paddingTop: 17
+    paddingBottom: 7
+  - name: addstep5
+    x: 481
+    y: 2
+    width: 92
+    height: 94
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 10
+    paddingTop: 17
+    paddingBottom: 7
+  - name: bomb
+    x: 575
+    y: 2
+    width: 104
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 5
+    paddingRight: 9
+    paddingTop: 8
+    paddingBottom: 2
+  - name: box_jin
+    x: 2
+    y: 168
+    width: 171
+    height: 165
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 5
+    paddingBottom: 5
+  - name: box_tong
+    x: 175
+    y: 168
+    width: 147
+    height: 139
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 15
+    paddingTop: 18
+    paddingBottom: 18
+  - name: box_yin
+    x: 324
+    y: 168
+    width: 153
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 12
+    paddingTop: 13
+    paddingBottom: 15
+  - name: box1
+    x: 681
+    y: 2
+    width: 75
+    height: 75
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: box2
+    x: 758
+    y: 2
+    width: 75
+    height: 75
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: box3
+    x: 835
+    y: 2
+    width: 75
+    height: 75
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: card_chongzhika
+    x: 650
+    y: 168
+    width: 167
+    height: 169
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 5
+    paddingTop: 2
+    paddingBottom: 4
+  - name: card_jingdong
+    x: 819
+    y: 168
+    width: 171
+    height: 173
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 3
+    paddingTop: 0
+    paddingBottom: 2
+  - name: card_Oil
+    x: 479
+    y: 168
+    width: 169
+    height: 171
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 2
+    paddingBottom: 2
+  - name: diamonds
+    x: 2
+    y: 343
+    width: 93
+    height: 86
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: diamonds3000
+    x: 97
+    y: 343
+    width: 140
+    height: 110
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 31
+    paddingRight: 29
+    paddingTop: 44
+    paddingBottom: 46
+  - name: diamonds3001
+    x: 239
+    y: 343
+    width: 182
+    height: 126
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 5
+    paddingTop: 47
+    paddingBottom: 27
+  - name: diamonds3002
+    x: 423
+    y: 343
+    width: 144
+    height: 136
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 26
+    paddingRight: 30
+    paddingTop: 31
+    paddingBottom: 33
+  - name: diamonds3003
+    x: 569
+    y: 343
+    width: 192
+    height: 172
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 6
+    paddingTop: 6
+    paddingBottom: 22
+  - name: diamonds3004
+    x: 763
+    y: 343
+    width: 184
+    height: 154
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 6
+    paddingTop: 21
+    paddingBottom: 25
+  - name: diamonds3005
+    x: 2
+    y: 517
+    width: 180
+    height: 182
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 6
+    paddingTop: 7
+    paddingBottom: 11
+  - name: energy
+    x: 184
+    y: 517
+    width: 77
+    height: 63
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: exchange
+    x: 263
+    y: 517
+    width: 110
+    height: 98
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 4
+    paddingTop: 13
+    paddingBottom: 7
+  - name: FaceSp_Bag
+    x: 2
+    y: 2
+    width: 164
+    height: 164
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: FaceSp_JinGuanZhang
+    x: 168
+    y: 2
+    width: 164
+    height: 164
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: gold
+    x: 375
+    y: 517
+    width: 94
+    height: 94
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: gold2001
+    x: 471
+    y: 517
+    width: 166
+    height: 102
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 14
+    paddingRight: 20
+    paddingTop: 36
+    paddingBottom: 62
+  - name: gold2002
+    x: 639
+    y: 517
+    width: 148
+    height: 154
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 37
+    paddingRight: 15
+    paddingTop: 13
+    paddingBottom: 33
+  - name: gold2003
+    x: 789
+    y: 517
+    width: 196
+    height: 190
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 0
+    paddingTop: 2
+    paddingBottom: 8
+  - name: gold2004
+    x: 2
+    y: 709
+    width: 164
+    height: 136
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 17
+    paddingRight: 19
+    paddingTop: 56
+    paddingBottom: 8
+  - name: gold2005
+    x: 168
+    y: 709
+    width: 268
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 10
+    paddingRight: 22
+    paddingTop: 44
+    paddingBottom: 0
+  - name: hammer
+    x: 438
+    y: 709
+    width: 88
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 15
+    paddingRight: 15
+    paddingTop: 9
+    paddingBottom: 1
+  - name: heng
+    x: 528
+    y: 709
+    width: 116
+    height: 108
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 0
+    paddingTop: 10
+    paddingBottom: 0
+  - name: jinbi
+    x: 646
+    y: 709
+    width: 84
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: nan1
+    x: 732
+    y: 709
+    width: 1
+    height: 1
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 99
+    paddingTop: 0
+    paddingBottom: 99
+  - name: refresh
+    x: 735
+    y: 709
+    width: 98
+    height: 100
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 13
+    paddingRight: 7
+    paddingTop: 13
+    paddingBottom: 5
+  - name: RMB
+    x: 334
+    y: 2
+    width: 51
+    height: 62
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: shu
+    x: 835
+    y: 709
+    width: 80
+    height: 118
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 15
+    paddingRight: 23
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 187238}
+  m_IsPrefabParent: 1

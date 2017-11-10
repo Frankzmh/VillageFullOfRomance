@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseFullOfRomance.Plugins", "HouseFullOfRomance.Plugins.csproj", "{FCAFAC83-BEF8-18D5-6FB0-F74A201C784A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseFullOfRomance", "HouseFullOfRomance.csproj", "{03E5A505-C2CA-4606-7367-2AFA16F9A713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseFullOfRomance.Editor.Plugins", "HouseFullOfRomance.Editor.Plugins.csproj", "{B34E1E45-C58C-47BB-4507-C9137F5D3C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCAFAC83-BEF8-18D5-6FB0-F74A201C784A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAFAC83-BEF8-18D5-6FB0-F74A201C784A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAFAC83-BEF8-18D5-6FB0-F74A201C784A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAFAC83-BEF8-18D5-6FB0-F74A201C784A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E5A505-C2CA-4606-7367-2AFA16F9A713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E5A505-C2CA-4606-7367-2AFA16F9A713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E5A505-C2CA-4606-7367-2AFA16F9A713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E5A505-C2CA-4606-7367-2AFA16F9A713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34E1E45-C58C-47BB-4507-C9137F5D3C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34E1E45-C58C-47BB-4507-C9137F5D3C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34E1E45-C58C-47BB-4507-C9137F5D3C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34E1E45-C58C-47BB-4507-C9137F5D3C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

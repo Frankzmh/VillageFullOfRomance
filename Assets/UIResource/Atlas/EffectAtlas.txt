@@ -1,0 +1,76 @@
+{"frames": {
+
+"BlackHole0.png":
+{
+	"frame": {"x":2,"y":2,"w":256,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":256},
+	"sourceSize": {"w":256,"h":256}
+},
+"item_2_1_f.png":
+{
+	"frame": {"x":226,"y":372,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"item_2_2_f.png":
+{
+	"frame": {"x":226,"y":260,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"item_2_3_f.png":
+{
+	"frame": {"x":114,"y":372,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"item_2_4_f.png":
+{
+	"frame": {"x":114,"y":260,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"item_2_5_f.png":
+{
+	"frame": {"x":2,"y":372,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"item_2_6_f.png":
+{
+	"frame": {"x":2,"y":260,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":110,"h":110},
+	"sourceSize": {"w":118,"h":118}
+},
+"ray.png":
+{
+	"frame": {"x":338,"y":2,"w":101,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":38},
+	"sourceSize": {"w":101,"h":38}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "EffectAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e57e065c076f717a3913fcfae6a737c$"
+}
+}

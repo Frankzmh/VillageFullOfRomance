@@ -1,0 +1,132 @@
+{"frames": {
+
+"Common_Itembg.png":
+{
+	"frame": {"x":2,"y":2,"w":58,"h":58},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
+	"sourceSize": {"w":58,"h":58}
+},
+"Common_Itembg1.png":
+{
+	"frame": {"x":62,"y":2,"w":110,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":110},
+	"sourceSize": {"w":110,"h":110}
+},
+"bankCard.png":
+{
+	"frame": {"x":174,"y":2,"w":54,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":45},
+	"sourceSize": {"w":54,"h":45}
+},
+"bankbg1.png":
+{
+	"frame": {"x":230,"y":2,"w":92,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":126},
+	"sourceSize": {"w":92,"h":126}
+},
+"bg_hot.png":
+{
+	"frame": {"x":324,"y":2,"w":77,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":62},
+	"sourceSize": {"w":77,"h":62}
+},
+"bg_new.png":
+{
+	"frame": {"x":403,"y":2,"w":77,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":62},
+	"sourceSize": {"w":77,"h":62}
+},
+"bg_xianliang.png":
+{
+	"frame": {"x":2,"y":130,"w":77,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":62},
+	"sourceSize": {"w":77,"h":62}
+},
+"bg_zhe.png":
+{
+	"frame": {"x":81,"y":130,"w":77,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":77,"h":62},
+	"sourceSize": {"w":77,"h":62}
+},
+"btn_buyDiamond.png":
+{
+	"frame": {"x":160,"y":130,"w":78,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":95},
+	"sourceSize": {"w":78,"h":95}
+},
+"fristbuy1480.png":
+{
+	"frame": {"x":240,"y":130,"w":144,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":53},
+	"sourceSize": {"w":144,"h":53}
+},
+"fristbuy2.png":
+{
+	"frame": {"x":386,"y":130,"w":92,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":53},
+	"sourceSize": {"w":92,"h":53}
+},
+"fristbuy288.png":
+{
+	"frame": {"x":2,"y":227,"w":140,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":53},
+	"sourceSize": {"w":140,"h":53}
+},
+"fristbuy40.png":
+{
+	"frame": {"x":144,"y":227,"w":117,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":53},
+	"sourceSize": {"w":117,"h":53}
+},
+"fristbuy588.png":
+{
+	"frame": {"x":263,"y":227,"w":141,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":53},
+	"sourceSize": {"w":141,"h":53}
+},
+"fristbuy8.png":
+{
+	"frame": {"x":406,"y":227,"w":91,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":53},
+	"sourceSize": {"w":91,"h":53}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "ShopAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6fefde4249e2ca9077dfdac43c08a711:1/1$"
+}
+}

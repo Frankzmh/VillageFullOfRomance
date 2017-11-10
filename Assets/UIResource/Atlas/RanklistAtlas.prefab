@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &171672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 471672}
+  - 114: {fileID: 11471672}
+  m_Layer: 0
+  m_Name: RanklistAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &471672
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 171672}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11471672
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 171672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b30708f1e386a2742a031d234c3ca7dc, type: 2}
+  mSprites:
+  - name: anniu_01
+    x: 628
+    y: 241
+    width: 45
+    height: 39
+    borderLeft: 21
+    borderRight: 21
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: anniu_02
+    x: 628
+    y: 200
+    width: 45
+    height: 39
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 20
+    borderBottom: 20
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: aochao
+    x: 526
+    y: 296
+    width: 65
+    height: 68
+    borderLeft: 19
+    borderRight: 17
+    borderTop: 19
+    borderBottom: 19
+    paddingLeft: 0
+    paddingRight: 2
+    paddingTop: 1
+    paddingBottom: 1
+  - name: aochao2
+    x: 843
+    y: 262
+    width: 65
+    height: 66
+    borderLeft: 22
+    borderRight: 22
+    borderTop: 22
+    borderBottom: 22
+    paddingLeft: 0
+    paddingRight: 2
+    paddingTop: 1
+    paddingBottom: 3
+  - name: bj
+    x: 994
+    y: 2
+    width: 20
+    height: 20
+    borderLeft: 4
+    borderRight: 4
+    borderTop: 4
+    borderBottom: 4
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: dikuang
+    x: 526
+    y: 200
+    width: 100
+    height: 94
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 25
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: duanwei
+    x: 306
+    y: 240
+    width: 76
+    height: 85
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fanhui
+    x: 694
+    y: 101
+    width: 163
+    height: 106
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: haoyoupaiming
+    x: 394
+    y: 101
+    width: 298
+    height: 97
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: jin
+    x: 154
+    y: 152
+    width: 150
+    height: 159
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: portrainIcon
+    x: 306
+    y: 152
+    width: 86
+    height: 86
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: quanqiupaiming
+    x: 694
+    y: 2
+    width: 298
+    height: 97
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: quanqupaiming
+    x: 394
+    y: 2
+    width: 298
+    height: 97
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: shangsheng
+    x: 675
+    y: 265
+    width: 66
+    height: 67
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: tong
+    x: 2
+    y: 152
+    width: 150
+    height: 159
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: wanjia
+    x: 675
+    y: 209
+    width: 98
+    height: 54
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: wodepaiming
+    x: 628
+    y: 282
+    width: 44
+    height: 206
+    borderLeft: 5
+    borderRight: 5
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: xiajiang
+    x: 775
+    y: 209
+    width: 66
+    height: 67
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: xingxing
+    x: 394
+    y: 200
+    width: 130
+    height: 135
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: yeqian
+    x: 2
+    y: 2
+    width: 390
+    height: 148
+    borderLeft: 69
+    borderRight: 100
+    borderTop: 49
+    borderBottom: 65
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: yin
+    x: 859
+    y: 101
+    width: 150
+    height: 159
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 171672}
+  m_IsPrefabParent: 1

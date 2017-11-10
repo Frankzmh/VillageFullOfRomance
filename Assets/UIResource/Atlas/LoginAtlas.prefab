@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &187238
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 487238}
+  - 114: {fileID: 11487238}
+  m_Layer: 0
+  m_Name: LoginAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &487238
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187238}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11487238
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 187238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 7aa95a4e4f4141c408ab0ca4565f3c40, type: 2}
+  mSprites:
+  - name: back
+    x: 212
+    y: 334
+    width: 100
+    height: 100
+    borderLeft: 23
+    borderRight: 23
+    borderTop: 28
+    borderBottom: 28
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: begin
+    x: 2
+    y: 185
+    width: 475
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bg2
+    x: 962
+    y: 415
+    width: 54
+    height: 54
+    borderLeft: 36
+    borderRight: 35
+    borderTop: 35
+    borderBottom: 35
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: bg3
+    x: 854
+    y: 320
+    width: 106
+    height: 106
+    borderLeft: 60
+    borderRight: 60
+    borderTop: 60
+    borderBottom: 75
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: black
+    x: 962
+    y: 362
+    width: 57
+    height: 51
+    borderLeft: 6
+    borderRight: 6
+    borderTop: 6
+    borderBottom: 6
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: closebtn
+    x: 314
+    y: 334
+    width: 96
+    height: 103
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: commonbtn
+    x: 771
+    y: 78
+    width: 82
+    height: 97
+    borderLeft: 33
+    borderRight: 33
+    borderTop: 29
+    borderBottom: 49
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: green
+    x: 619
+    y: 227
+    width: 134
+    height: 57
+    borderLeft: 19
+    borderRight: 19
+    borderTop: 18
+    borderBottom: 18
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: headbg
+    x: 479
+    y: 36
+    width: 150
+    height: 150
+    borderLeft: 9
+    borderRight: 9
+    borderTop: 9
+    borderBottom: 9
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: headpic
+    x: 855
+    y: 2
+    width: 156
+    height: 167
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 12
+    paddingBottom: 0
+  - name: input
+    x: 464
+    y: 337
+    width: 69
+    height: 67
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 30
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: inputbg
+    x: 2
+    y: 432
+    width: 100
+    height: 100
+    borderLeft: 16
+    borderRight: 16
+    borderTop: 16
+    borderBottom: 16
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: jindutiao
+    x: 412
+    y: 377
+    width: 46
+    height: 33
+    borderLeft: 16
+    borderRight: 16
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: jindutiaoDi
+    x: 412
+    y: 334
+    width: 50
+    height: 41
+    borderLeft: 20
+    borderRight: 20
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: logout
+    x: 619
+    y: 286
+    width: 131
+    height: 97
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: progressBg
+    x: 962
+    y: 320
+    width: 60
+    height: 40
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: progressFg
+    x: 2
+    y: 2
+    width: 651
+    height: 32
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: qq
+    x: 855
+    y: 171
+    width: 138
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: register
+    x: 2
+    y: 36
+    width: 475
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: stage_back
+    x: 110
+    y: 334
+    width: 100
+    height: 100
+    borderLeft: 36
+    borderRight: 36
+    borderTop: 36
+    borderBottom: 47
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: sure_button
+    x: 655
+    y: 2
+    width: 198
+    height: 74
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: titlebg
+    x: 771
+    y: 177
+    width: 74
+    height: 127
+    borderLeft: 30
+    borderRight: 30
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: visitorLogin
+    x: 479
+    y: 188
+    width: 138
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: wechat
+    x: 631
+    y: 78
+    width: 138
+    height: 147
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: white
+    x: 752
+    y: 306
+    width: 100
+    height: 100
+    borderLeft: 22
+    borderRight: 22
+    borderTop: 22
+    borderBottom: 22
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: wuxing
+    x: 2
+    y: 334
+    width: 106
+    height: 96
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 187238}
+  m_IsPrefabParent: 1

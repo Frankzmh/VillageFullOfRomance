@@ -1,0 +1,60 @@
+{"frames": {
+
+"black.png":
+{
+	"frame": {"x":2,"y":338,"w":57,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":51},
+	"sourceSize": {"w":57,"h":51}
+},
+"headbg.png":
+{
+	"frame": {"x":2,"y":186,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"vs.png":
+{
+	"frame": {"x":366,"y":101,"w":108,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":83},
+	"sourceSize": {"w":108,"h":83}
+},
+"winStar.png":
+{
+	"frame": {"x":2,"y":2,"w":362,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":362,"h":142},
+	"sourceSize": {"w":362,"h":142}
+},
+"winsp.png":
+{
+	"frame": {"x":154,"y":146,"w":175,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":120},
+	"sourceSize": {"w":175,"h":120}
+},
+"yellow_button1.png":
+{
+	"frame": {"x":366,"y":2,"w":117,"h":97},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":117,"h":97},
+	"sourceSize": {"w":117,"h":101}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LevelPlayFinishAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0babb78685320f69be551c523e23227$"
+}
+}

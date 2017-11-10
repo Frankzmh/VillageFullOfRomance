@@ -1,0 +1,84 @@
+{"frames": {
+
+"bg1.png":
+{
+	"frame": {"x":136,"y":78,"w":82,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":74},
+	"sourceSize": {"w":82,"h":74}
+},
+"bg2.png":
+{
+	"frame": {"x":136,"y":2,"w":82,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":74},
+	"sourceSize": {"w":82,"h":74}
+},
+"bg3.png":
+{
+	"frame": {"x":126,"y":154,"w":54,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":48},
+	"sourceSize": {"w":54,"h":48}
+},
+"bg4.png":
+{
+	"frame": {"x":126,"y":204,"w":42,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":35},
+	"sourceSize": {"w":42,"h":35}
+},
+"btn_SetVoice.png":
+{
+	"frame": {"x":2,"y":154,"w":78,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":78,"h":82},
+	"sourceSize": {"w":78,"h":82}
+},
+"btn_open.png":
+{
+	"frame": {"x":2,"y":2,"w":132,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":132,"h":80},
+	"sourceSize": {"w":132,"h":80}
+},
+"btn_tag1.png":
+{
+	"frame": {"x":82,"y":166,"w":42,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":78},
+	"sourceSize": {"w":42,"h":78}
+},
+"btn_tag2.png":
+{
+	"frame": {"x":82,"y":84,"w":42,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":80},
+	"sourceSize": {"w":42,"h":80}
+},
+"select.png":
+{
+	"frame": {"x":2,"y":84,"w":61,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":51},
+	"sourceSize": {"w":61,"h":51}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "PlayerSetAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c3c6c8745da66a31d0d847748f5a883c$"
+}
+}
